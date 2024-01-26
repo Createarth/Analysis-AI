@@ -1,5 +1,5 @@
 # Analysis-Ai
-## Directory Analysis and Code Generation
+## Automated Data Analytics
 
 ## Introduction
 
